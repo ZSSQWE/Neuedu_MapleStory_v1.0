@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.neuedu.maplestory.client","l":"MapleStoryClient"},{"l":"所有类","url":"allclasses-index.html"}]
